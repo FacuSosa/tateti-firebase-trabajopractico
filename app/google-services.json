@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996401318324",
+    "project_id": "trabajopracticotateti",
+    "storage_bucket": "trabajopracticotateti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996401318324:android:dd4fd22933829cca1d4ae1",
+        "android_client_info": {
+          "package_name": "ar.com.develup.tateti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996401318324-79me3ijnkj36ttg2fkp7squui19krlmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Zia5QOHGGK2Z81OXOqYV9uq5n2R4CYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996401318324-79me3ijnkj36ttg2fkp7squui19krlmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

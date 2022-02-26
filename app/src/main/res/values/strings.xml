@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaTeTi</string>
+    <string name="msg_token_fmt">true</string>
+</resources>

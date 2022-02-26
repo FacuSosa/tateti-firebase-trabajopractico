@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key> frase_de_carga </key>
+        <value>Obteniendo configuración…</value>
+    </entry>
+    <entry>
+        <key>welcome_message_caps</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key> mensaje_bienvenido </key>
+        <value> ¡Bienvenido a mi increíble aplicación!</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
